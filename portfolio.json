@@ -1,0 +1,82 @@
+{
+    "personal": {
+        "name": "Ian de Souza Pimentel",
+        "cellphone": "+55 21 99957-6371",
+        "email": "ccontato.iansouzapimentel@gmail.com",
+        "birthdate": "05/21/2004"
+    },
+    "experience": [
+        {
+            "company": "2LIG",
+            "role": "Fullstack Intern",
+            "joined": "04/2022",
+            "left": "05/2025",
+            "summary": "Trabalhei com modelagem e criação de tabelas com Entity Framework e SQL Server Management Studio, desenvolvimento da lógica de acesso a dados e implementação de APIs RESTful com .NET, até a integração com o front-end e construção de interfaces utilizando AngularJS. Destaque para a criação de dashboards de monitoramento em tempo real e mapas de performance regional de vendas",
+            "technologies": [
+                "C#",
+                ".Net",
+                "Entity Framework",
+                "SQL Server Management Studio",
+                "Node",
+                "Angular.Js",
+                "JQuery"
+            ],
+            "images": [
+                "assets/dashboard.jpeg"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institute": "INFNET - Superior Tecnólogo",
+            "course": "Análise e Desenvolvimento de sistemas",
+            "learned": ""
+        },
+        {
+            "institute": "FAETEC ETER - Médio Técnico",
+            "course": "Programação de Jogos Digitais",
+            "learned": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Financ Amy",
+            "sourceCode": "https://github.com/Ian-Pimentel/financ-amy2",
+            "description": "PWA de controle financeiro com foco em uma visão mensal de gastos e economias, cadastre despesas pontuais e recorrentes, o app calcula a diferença contra o salário e monta gráficos e indicadores de desempenho. Utilize gestos de swipe com feeling nativo e customize o tema da aplicação com o sistema de temas procedurais. Feito sob encomenda para minha namorada, ela idealiza as funcionalidades e eu desenvolvo a partir das minhas melhores habilidades ;)",
+            "techStack": [
+                "Typescript",
+                "React",
+                "Recharts",
+                "Dexie.js",
+                "HTML",
+                "Tailwind"
+            ],
+            "images": [
+                "assets/financ_amy_1.jpeg"
+            ]
+        },
+        {
+            "name": "Tetris",
+            "sourceCode": "https://github.com/Ian-Pimentel/tetris",
+            "description": "Um remake de Tetris criado para aprender ODIN e raylib. Meu primeiro jogo utilizando uma API gráfica de baixo nível :)",
+            "techStack": [
+                "Odin",
+                "Raylib"
+            ],
+            "images": [
+                "assets/tetris_1.jpeg"
+            ]
+        },
+        {
+            "name": "Portfolio",
+            "sourceCode": "https://github.com/Ian-Pimentel/portfolio",
+            "description": "Site pessoal e recreativo com o objetivo principal de exercitar meu conhecimento em CSS, fiz tudo ao meu alcance para não depender de scripts",
+            "techStack": [
+                "HTML",
+                "CSS",
+                "Typescript"
+            ],
+            "images": []
+        }
+    ]
+}
